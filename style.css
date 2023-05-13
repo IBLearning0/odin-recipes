@@ -1,0 +1,10 @@
+body{
+    background-color: tomato;
+    font-family: Helvetica,"Times New Roman",sans-serif;
+}
+
+.main-header{
+    color: whitesmoke;
+    text-align: center;
+    font-weight: bolder;
+}
